@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327574995668",
+    "project_id": "watches-ecommerce-6f4ec",
+    "storage_bucket": "watches-ecommerce-6f4ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327574995668:android:94658c987de8150c2f3141",
+        "android_client_info": {
+          "package_name": "com.example.watches_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyj0cgANv19YrlLlgFG5YUM3noeHf7hqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
