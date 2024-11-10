@@ -1,7 +1,7 @@
 # watches_ecommerce
 A new Flutter project.
 
-<img src="https://github.com/user-attachments/assets/6086c09e-e8f6-4c9b-bf26-6fa7cb3fe416" width="350" height="500">
+<img src="https://github.com/user-attachments/assets/6086c09e-e8f6-4c9b-bf26-6fa7cb3fe416" width="300" height="500">
 <img src="https://github.com/user-attachments/assets/373e79d3-fc84-44f8-80d1-6eeba122b8f1" width="400" height="500">
 <img src="https://github.com/user-attachments/assets/bbfc7de6-0c8d-43a4-a13e-c5168c91331f" width="400" height="500">
 <img src="https://github.com/user-attachments/assets/74a5ba16-74af-4329-b95e-7e9e801f7304" width="400" height="500">
